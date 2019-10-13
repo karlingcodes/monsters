@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/karlingcodes/monsters.git/static/css/main.9fba2553.chunk.css",
-    "main.js": "/karlingcodes/monsters.git/static/js/main.50b2d10f.chunk.js",
-    "main.js.map": "/karlingcodes/monsters.git/static/js/main.50b2d10f.chunk.js.map",
-    "runtime-main.js": "/karlingcodes/monsters.git/static/js/runtime-main.6e67bf97.js",
-    "runtime-main.js.map": "/karlingcodes/monsters.git/static/js/runtime-main.6e67bf97.js.map",
-    "static/js/2.462f81e5.chunk.js": "/karlingcodes/monsters.git/static/js/2.462f81e5.chunk.js",
-    "static/js/2.462f81e5.chunk.js.map": "/karlingcodes/monsters.git/static/js/2.462f81e5.chunk.js.map",
-    "index.html": "/karlingcodes/monsters.git/index.html",
-    "precache-manifest.9b20f3c5e4bcef47f1610bdd71b096a0.js": "/karlingcodes/monsters.git/precache-manifest.9b20f3c5e4bcef47f1610bdd71b096a0.js",
-    "service-worker.js": "/karlingcodes/monsters.git/service-worker.js",
-    "static/css/main.9fba2553.chunk.css.map": "/karlingcodes/monsters.git/static/css/main.9fba2553.chunk.css.map"
+    "main.css": "/karlingcodes/monsters/static/css/main.9fba2553.chunk.css",
+    "main.js": "/karlingcodes/monsters/static/js/main.b039f235.chunk.js",
+    "main.js.map": "/karlingcodes/monsters/static/js/main.b039f235.chunk.js.map",
+    "runtime-main.js": "/karlingcodes/monsters/static/js/runtime-main.cadc8ff0.js",
+    "runtime-main.js.map": "/karlingcodes/monsters/static/js/runtime-main.cadc8ff0.js.map",
+    "static/js/2.462f81e5.chunk.js": "/karlingcodes/monsters/static/js/2.462f81e5.chunk.js",
+    "static/js/2.462f81e5.chunk.js.map": "/karlingcodes/monsters/static/js/2.462f81e5.chunk.js.map",
+    "index.html": "/karlingcodes/monsters/index.html",
+    "precache-manifest.55da2393b83ba93ed9622cd00f6040f5.js": "/karlingcodes/monsters/precache-manifest.55da2393b83ba93ed9622cd00f6040f5.js",
+    "service-worker.js": "/karlingcodes/monsters/service-worker.js",
+    "static/css/main.9fba2553.chunk.css.map": "/karlingcodes/monsters/static/css/main.9fba2553.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e67bf97.js",
+    "static/js/runtime-main.cadc8ff0.js",
     "static/js/2.462f81e5.chunk.js",
     "static/css/main.9fba2553.chunk.css",
-    "static/js/main.50b2d10f.chunk.js"
+    "static/js/main.b039f235.chunk.js"
   ]
 }
