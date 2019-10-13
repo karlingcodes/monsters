@@ -2,7 +2,7 @@
   "name": "monster-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/karlingcodes/monsters.git",
+  "homepage": "https://github.com/karlingcodes/monsters",
   "dependencies": {
     "monsters": "^2.0.0",
     "react": "^16.10.2",
